@@ -328,6 +328,7 @@
 ## Testnets
 
 - [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet)
+- [EOS.IO Superhero Testnet](https://github.com/eosgreen/EOS.IO-Community-Testnet-Reactivation)
 - [How to start Testnet on Dawn 3 release](https://busy.org/@eluzgin/how-to-start-testnet-on-dawn-3-release)
 - [How to join Arrowhead Testnet for BP candidates](https://busy.org/@eluzgin/how-to-join-arrowhead-testnet-for-bp-candidates)
 - [How to start a Dawn3 testnetwork and add producers using eosio.bios](https://steemit.com/eos/@cryptolions/how-to-start-a-dawn3-testnetwork-and-add-producers-using-eosio-bios)
